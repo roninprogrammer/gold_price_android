@@ -30,33 +30,36 @@ Requirement :
 
 Technology Stack Boilerplate for Android
 ---------------------
-1 ) Butter 
-2 ) Dagger
-3 ) Flex Layout
-4 ) Google Maps Android API utility library
-5 ) Gson
-6 ) jsoup
-7 ) libphonenumber
-8 ) OkHttp
-9 ) Paypal Android SDK
-10 ) Picasso
-11 ) Retrofit
-12 ) SmoothProgressBar
-13 ) Timber
-14 ) Adjust
-15 ) Braintree Encryption
-16 ) Calligraphy
-17 ) LeakCanry
-18 ) RxJava
-19 ) Kryo
-20 ) RxAndroid
-21 ) RxBinding
-22 ) RxJavaAsyncUtil
-23 ) RxLifecycle
-24 ) RxRelay
-25 ) slf4j
-26 ) SnappyDB
-27 ) Lottie for android
-28 ) LazyThreeTenBP
-29 ) ThreeTen Backport Project
-30 ) Adyen SDK for Android
+
+````
+1. Butter 
+2. Dagger
+3. Flex Layout
+4. Google Maps Android API utility library
+5. Gson
+6. jsoup
+7. libphonenumber
+8. OkHttp
+9. Paypal Android SDK
+10. Picasso
+11. Retrofit
+12. SmoothProgressBar
+13. Timber
+14. Adjust
+15. Braintree Encryption
+16. Calligraphy
+17. LeakCanry
+18. RxJava
+19. Kryo
+20. RxAndroid
+21. RxBinding
+22. RxJavaAsyncUtil
+23. RxLifecycle
+24. RxRelay
+25. slf4j
+26. SnappyDB
+27. Lottie for android
+28. LazyThreeTenBP
+29. ThreeTen Backport Project
+30. Adyen SDK for Android
+````````````
